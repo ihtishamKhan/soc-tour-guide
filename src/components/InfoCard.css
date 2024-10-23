@@ -1,0 +1,9 @@
+.info-card {
+    background-color: #fbe1d4;
+}
+
+.my-image {
+    border-radius: 50%;
+    width: 150px;
+    border: 6px solid #fbf35f;
+}
