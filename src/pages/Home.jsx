@@ -54,7 +54,7 @@ function Home() {
             </div>
 
             <div class="container mx-auto mb-8">
-                <h2 class="text-3xl font-semibold mt-8 p-4">Popular Cities in Italy &#128513;</h2>
+                <h2 class="text-3xl font-semibold mt-8 p-4">Popular Cities in Italy</h2>
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
                     {cities.map(city => (
                         <div class="bg-white rounded-lg shadow-lg p-4">
